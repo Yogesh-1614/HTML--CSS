@@ -1,0 +1,55 @@
+ p{
+        font-family: 'Roboto Serif', serif;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .video-title{
+        
+        font-weight: bold;
+        font-size: 18px;
+        width: 300px;
+        line-height:25px;
+        margin-bottom:5px;
+        
+    }
+    .video_stats{
+        
+        font-size: 14px;
+        color:rgb(96,96,96);
+        
+
+    }
+    .video_author{
+        
+        font-size: 14px;
+        color:rgb(96,96,96);
+        margin-top: 20px;
+        margin-bottom: 20px;
+
+    }
+    .video_description{
+        font-size: 14px;
+        color:rgb(96,96,96);
+        width: 300px;
+        margin: 0px;
+        line-height: 20px;
+        margin-bottom: 100px;
+
+    }
+    .text{
+        margin-bottom: 50px;
+        font-size: 14px;
+        background-color: rgb(227,65,64);
+        color: white;
+        text-align: center;
+        padding: 16px;
+        
+    }
+    .span_example{
+        color: rgb(227,65,64);
+    }
+    .shop{
+        font-weight: bold;
+        
+        cursor: pointer;
+    }
